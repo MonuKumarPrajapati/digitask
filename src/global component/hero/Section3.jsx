@@ -35,7 +35,7 @@ const Section3 = () => {
         };
     
         // Start interval to increment the counters every 100ms
-        const interval = setInterval(incrementCounters, 100);
+        const interval = setInterval(incrementCounters, 300);
     
         // Stop interval after 1 second (1000ms)
         const timeout = setTimeout(() => {

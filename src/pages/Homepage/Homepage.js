@@ -22,26 +22,21 @@ import Section5 from "../../global component/hero/Section5";
 
 SwiperCore.use([Pagination, Autoplay]);
 const Homepage = () => {
-
   return (
     <>
       {/* Main Content */}
-     <HeroSection/>
+      <HeroSection />
+
+      
+      {/* 5 section */}
       <Section />
-      <Section2/>
-
-      {/* start counter */}
-
+      <Section2 />
       <Section3 />
-      <Section4/>
+      <Section4 />
+      <Section5 />
 
-      {/* 
-      technology start  */}
 
-      <Section5/>
       <Technologies />
-
-      {/* card with swiper */}
       <Testimonials />
       <ContactForm />
     </>

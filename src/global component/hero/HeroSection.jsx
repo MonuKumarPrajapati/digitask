@@ -16,9 +16,9 @@ const HeroSection = () => {
     AOS.init()
     const interval = setInterval(() => {
       setCurrentIndex((prevIndex) => (prevIndex + 1) % images.length);
-    }, 5000); // Change image every 5 seconds
+    }, 5000); 
 
-    return () => clearInterval(interval); // Clear interval on unmount
+    return () => clearInterval(interval); 
   }, [images.length]);
 
   return (

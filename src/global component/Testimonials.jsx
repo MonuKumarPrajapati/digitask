@@ -17,9 +17,8 @@ const Testimonials = () => {
         >
           Testimonials
         </div>
-        {/* Heading */}
         <div data-aos="fade-down">
-          {" "}
+         
           <h2 className="mt-4 fw-semibold"  style={
                     {fontSize: "40px",
                       fontFamily: "'teko', sans-serif",}
@@ -34,7 +33,6 @@ const Testimonials = () => {
         {/* Swiper for Cards */}
         <div className="swiper-container-flex" data-aos="zoom-in">
           <Swiper
-            // Space between cards
             spaceBetween={20}
             slidesPerView={3} // Show 3 cards at once
             slidesPerGroup={1} // Scroll one card at a time

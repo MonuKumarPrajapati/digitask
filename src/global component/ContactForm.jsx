@@ -23,7 +23,6 @@ const ContactForm = () => {
       </div>
       <div className="container mt-5 d-flex">
         <div className="row  ">
-          {/* Left side */}
           <div className="col-md-6">
             <div data-aos='fade-right'>
               <img
@@ -34,11 +33,10 @@ const ContactForm = () => {
             </div>
           </div>
         </div>
-        {/* Right side */}
-        {/* form */}
+     
         <div className="col-md-6 " data-aos='fade-left'>
           <form>
-            {/* Name */}
+        
             <div className="mb-3">
               <label className="form-label">
                 Name <span className="text-danger">*</span>
@@ -50,7 +48,7 @@ const ContactForm = () => {
               />
             </div>
 
-            {/* Company & Country */}
+          
             <div className="row">
               <div className="col-md-6 mb-3">
                 <label className="form-label">Company Name</label>
@@ -70,7 +68,7 @@ const ContactForm = () => {
               </div>
             </div>
 
-            {/* Phone & Email */}
+          
             <div className="row">
               <div className="col-md-6 mb-3">
                 <label className="form-label">
@@ -94,7 +92,6 @@ const ContactForm = () => {
               </div>
             </div>
 
-            {/* Message */}
             <div className="mb-3">
               <label className="form-label">Give us a message</label>
               <textarea
@@ -104,13 +101,11 @@ const ContactForm = () => {
               ></textarea>
             </div>
 
-            {/* Blur Paragraph */}
             <p className="blur-text">
               Please fill out the form to the best of your ability. We will get
               back to you as soon as possible. Thank you for your patience.
             </p>
 
-            {/* Submit Button */}
             <button type="submit" className="btn btn-primary">
               Submit
             </button>

@@ -11,7 +11,7 @@ const Technologies = () => {
   }, []);
   return (
     <>
-      {/* old */}
+      {/* old page */}
 <div className="technology-section" data-aos="fade-up">
 <div className="container-fluid">
   <h1 className="technology">Technologies We Work With</h1>
@@ -80,7 +80,6 @@ const Technologies = () => {
   </div>
 </div>
 
-{/* Industries web server */}
 
 
 </div>

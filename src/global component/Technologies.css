@@ -11,5 +11,5 @@
     width: 100%;
     height: auto;
     object-fit: cover;
-    transition: opacity 1s ease-in-out; /* Smooth transition */
+    transition: opacity 1s ease-in-out;
   }

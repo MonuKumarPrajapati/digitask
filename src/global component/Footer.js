@@ -12,7 +12,6 @@ const Footer = () => {
   }, []);
   return (
     <>
-      {/* footer top part */}
       <footer className="app-footer mt-3" data-aos='fade-up'>
         <div className="container">
           <div className="footer-top-part">
@@ -54,7 +53,6 @@ const Footer = () => {
             </div>
           </div>
 
-          {/* footer bottom part */}
           <div className="footer-bottom-part">
             <div className="text-center">
               &copy; Copyright 2024. All rights reserved.

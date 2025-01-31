@@ -10,7 +10,7 @@ const Section = () => {
         })
     },[])
   return (
-    <div className="col-xxl-12 col-md-12 text-center mt-3">
+    <div className="col-xxl-12 col-md-12 text-center mt-3" style={{width:"100vw"}} data-aos='fade-up'>
     <h1 className="fw-semibold"  style={
                     {fontSize: "40px",
                       fontFamily: "'teko', sans-serif",}
