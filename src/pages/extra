@@ -1,0 +1,201 @@
+{/* old */}
+<div className="technology-section" data-aos="fade-up">
+<div className="container-fluid">
+  <h1 className="technology">Technologies We Work With</h1>
+  <div className="grid-container">
+    <div className="rotating-container">
+      <div className="rotating-image">
+        <img
+          src="https://www.preciousinfosystem.com/images/assets/ror.png"
+          alt="JavaScript"
+        />
+      </div>
+      <h2 className="heading5">JavaScript</h2>
+    </div>
+    <div className="rotating-container">
+      <div className="rotating-image">
+        <img
+          src="https://www.preciousinfosystem.com/images/assets/html.png"
+          alt="React Js"
+        />
+      </div>
+      <h2 className="heading5">HTML</h2>
+    </div>
+    <div className="rotating-container">
+      <div className="rotating-image">
+        <img
+          src="https://www.preciousinfosystem.com/images/assets/html.png"
+          alt="HTML"
+        />
+      </div>
+      <h2 className="heading5">HTML</h2>
+    </div>
+    <div className="rotating-container">
+      <div className="rotating-image">
+        <img
+          src="https://www.preciousinfosystem.com/images/assets/js.png"
+          alt="CSS"
+        />
+      </div>
+      <h2 className="heading5">JavaScript</h2>
+    </div>
+
+    <div className="rotating-container">
+      <div className="rotating-image">
+        <img
+          src="https://www.preciousinfosystem.com/images/assets/css.png"
+          alt="CSS"
+        />
+      </div>
+      <h2 className="heading5">CSS</h2>
+    </div>
+  </div>
+</div>
+<div className="container-fluid ">
+  <div className="grid-container">
+    <div className="rotating-container">
+      <div className="rotating-image">
+        <img
+          src="https://www.preciousinfosystem.com/images/assets/js.png"
+          alt="JavaScript"
+        />
+      </div>
+      <h2 className="heading5">JavaScript</h2>
+    </div>
+    <div className="rotating-container">
+      <div className="rotating-image">
+        <img
+          src="https://www.preciousinfosystem.com/images/assets/react.png"
+          alt="React Js"
+        />
+      </div>
+      <h2 className="heading5">React Js</h2>
+    </div>
+    <div className="rotating-container">
+      <div className="rotating-image">
+        <img
+          src="https://www.preciousinfosystem.com/images/assets/html.png"
+          alt="HTML"
+        />
+      </div>
+      <h2 className="heading5">HTML</h2>
+    </div>
+    <div className="rotating-container">
+      <div className="rotating-image">
+        <img
+          src="https://www.preciousinfosystem.com/images/assets/css.png"
+          alt="CSS"
+        />
+      </div>
+      <h2 className="heading5">CSS</h2>
+    </div>
+
+    <div className="rotating-container">
+      <div className="rotating-image">
+        <img
+          src="https://www.preciousinfosystem.com/images/assets/html.png"
+          alt="CSS"
+        />
+      </div>
+      <h2 className="heading5">CSS</h2>
+    </div>
+  </div>
+</div>
+
+{/* Industries web server */}
+
+<div className="container my-5">
+  <h1 className="technology">Industries We Serve</h1>
+  <div className="row">
+    {/* Left Side - Paragraph + Image + Text */}
+    <div className="col-md-6">
+      {/* Paragraph */}
+      <div className="paragraph-section">
+        <p>
+          This is a 5-6 line paragraph that will sit on the left side of
+          the page. You can add any content here to fit the context of
+          your page. This paragraph could be used to describe something
+          in more detail. It's flexible and adjustable for your needs.
+        </p>
+      </div>
+
+      {/* Image + Text Section */}
+      <div className="image-text-section mt-4">
+        <div className="d-flex align-items-center mb-2">
+          <img
+            src="https://www.preciousinfosystem.com/images/assets/checked.png"
+            alt="check"
+            className="small-check-image"
+          />
+          <span className="mx-2">Increased company value</span>
+        </div>
+        <div className="d-flex align-items-center mb-2">
+          <img
+            src="https://www.preciousinfosystem.com/images/assets/checked.png"
+            alt="check"
+            className="small-check-image"
+          />
+          <span className="mx-2">Reduces training overheads</span>
+        </div>
+        <div className="d-flex align-items-center mb-2">
+          <img
+            src="https://www.preciousinfosystem.com/images/assets/checked.png"
+            alt="check"
+            className="small-check-image"
+          />
+          <span className="mx-2">Improves productivity</span>
+        </div>
+        <div className="d-flex align-items-center mb-2">
+          <img
+            src="https://www.preciousinfosystem.com/images/assets/checked.png"
+            alt="check"
+            className="small-check-image"
+          />
+          <span className="mx-2">Boosts employee morale</span>
+        </div>
+        <div className="d-flex align-items-center mb-2">
+          <img
+            src="https://www.preciousinfosystem.com/images/assets/checked.png"
+            alt="check"
+            className="small-check-image"
+          />
+          <span className="mx-2">Enhances team collaboration</span>
+        </div>
+        <div className="d-flex align-items-center mb-2">
+          <img
+            src="https://www.preciousinfosystem.com/images/assets/checked.png"
+            alt="check"
+            className="small-check-image"
+          />
+          <span className="mx-2">Drives innovation</span>
+        </div>
+        <div className="d-flex align-items-center mb-2">
+          <img
+            src="https://www.preciousinfosystem.com/images/assets/checked.png"
+            alt="check"
+            className="small-check-image"
+          />
+          <span className="mx-2">Supports scalable growth</span>
+        </div>
+        <div className="d-flex align-items-center mb-2">
+          <img
+            src="https://www.preciousinfosystem.com/images/assets/checked.png"
+            alt="check"
+            className="small-check-image"
+          />
+          <span className="mx-2">Increases market competitiveness</span>
+        </div>
+      </div>
+    </div>
+
+    {/* Right Side - Single Image */}
+    <div className="col-md-6 d-flex justify-content-center align-items-center">
+      <img
+        src="https://www.preciousinfosystem.com/images/assets/industry.png"
+        alt="Right Side Image"
+        className="right-side-image"
+      />
+    </div>
+  </div>
+</div>
+</div>

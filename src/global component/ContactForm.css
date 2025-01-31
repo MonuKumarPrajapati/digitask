@@ -1,0 +1,104 @@
+/* General styling */
+.contact-heading {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  
+  .contact-description {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .contact-image {
+    width: 100%;
+    height: auto;
+    max-height: 700px;
+    object-fit: contain;
+    margin-top: 20px;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    padding: 10px;
+    margin-bottom: 10px;
+    max-height: 500px ;
+  }
+  
+  /* Styling for the submit button */
+  button[type="submit"] {
+    margin-top: 20px;
+  }
+  
+  /* Style for blur text */
+  .blur-text {
+    font-size: 0.9rem;
+    color: gray;
+    margin-top: 15px;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .contact-heading {
+      font-size: 1.25rem;
+      text-align: center;
+    }
+  
+    .contact-description {
+      font-size: 0.9rem;
+    }
+  
+    .contact-image {
+        /* display: flex; */
+      max-height: 450px;
+    }
+  
+    /* Adjust the layout for smaller screens */
+    .col-md-6 {
+      width: 100%; /* Stack the columns on small screens */
+      margin-bottom: 20px;
+    }
+  
+    /* Form styling adjustments */
+    .form-control {
+      font-size: 0.9rem;
+      max-height: 500px;
+    }
+  
+    button[type="submit"] {
+      width: 100%; /* Make the button full-width on smaller screens */
+    }
+  
+    .blur-text {
+      font-size: 0.85rem;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    /* Further adjustments for very small screens */
+    .contact-heading {
+      font-size: 1.1rem;
+    }
+  
+    .contact-description {
+      font-size: 0.85rem;
+    }
+  
+    .form-control {
+      font-size: 0.85rem;
+    }
+  
+    .blur-text {
+      font-size: 0.8rem;
+    }
+  
+    button[type="submit"] {
+      font-size: 1rem;
+    }
+  }
+  
