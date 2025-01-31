@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digitask/static/css/main.4a4a7288.css",
+    "main.js": "/digitask/static/js/main.f0a3e1c5.js",
+    "static/js/453.9a464900.chunk.js": "/digitask/static/js/453.9a464900.chunk.js",
+    "index.html": "/digitask/index.html",
+    "main.4a4a7288.css.map": "/digitask/static/css/main.4a4a7288.css.map",
+    "main.f0a3e1c5.js.map": "/digitask/static/js/main.f0a3e1c5.js.map",
+    "453.9a464900.chunk.js.map": "/digitask/static/js/453.9a464900.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a4a7288.css",
+    "static/js/main.f0a3e1c5.js"
+  ]
+}
