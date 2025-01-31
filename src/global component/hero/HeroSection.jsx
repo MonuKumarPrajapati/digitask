@@ -28,8 +28,8 @@ const HeroSection = () => {
           <div className="carousel-item active">
             <div className="container text-center w-100">
               <div className="row d-flex justify-content-between w-100">
-                <div className="col text-white fw-bold fs-4 ">
-                  <p className="header-content" style={{marginTop:'25%'}} data-aos="fade-up">
+                <div className="col text-white fw-bold fs-4  " style={{marginBottom:'10%'}}>
+                  <p className="header-content" style={{marginTop:'30%'}} data-aos="fade-up">
                     Custom Software Development Company
                   </p>
                   <p className="header-content-bold mt-3" style={
